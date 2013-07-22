@@ -1,0 +1,12 @@
+body
+{background-color:#FF99CC}
+#header 
+{background-color:##FF99CC;width:100%;min-height:100px;}
+#leftcolumn
+{background-color:##FF99CC;width:21%%;min-height:400px; float:left}
+#maincontent 
+{background-color:##FF99CC;width:44%;min-height:400px; float:left}
+#footer
+{background-color:#000000;width:100%;min-height:100px; clear:both}
+#rightcolumn 
+{background-color:#AAAAAA;width:33%;min-height:400px; float:left}
